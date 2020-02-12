@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72e5c34236e8a9250782233d69c65ff1",
+    "revision": "d2293a7ad9a9421f8f8d237e259b5ab6",
     "url": "/react-robo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-robo/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "f2fd5845c83f170363a6",
+    "revision": "4a19d72d0e7c9b155a7b",
     "url": "/react-robo/static/css/main.47587586.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-robo/static/js/2.4b6b2329.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2fd5845c83f170363a6",
-    "url": "/react-robo/static/js/main.6bfd156d.chunk.js"
+    "revision": "4a19d72d0e7c9b155a7b",
+    "url": "/react-robo/static/js/main.809c3368.chunk.js"
   },
   {
     "revision": "3342646c359e8fa9cf90",
